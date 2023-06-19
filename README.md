@@ -1,6 +1,6 @@
-# Bot Tok
+# Susil Rai
 
-Bot Tok is an TikTok Up Bot (likes, followers, shares, favorites and views)
+Susil Rai is an TikTok Up Bot (likes, followers, shares, favorites and views)
 based in node.js, puppeteer and zefoy.com.
 
 🚨 Find help in [Telegram](https://t.me/bottok_help)
@@ -345,7 +345,7 @@ $ node bottok.js -t 'Up Views' -l https://www.tiktok.com/@jfadev/video/721669721
 
 Set the limit accumulations value with `-x` flag. The bot will stop when this limit is reached.
 ```bash
-$ node bottok.js -t 'Up Views' -x 20000 -l https://www.tiktok.com/@jfadev/video/7216697213693529349
+$ node bottok.js -t 'Up Views' -x 10000000 -l https://www.tiktok.com/@jfadev/video/7216697213693529349
 ```
 
 
@@ -448,13 +448,13 @@ Limit 0 = unlimited
 ![](doc/9.png?raw=true)
 
 ```txt
-Up Views,10000,https://www.tiktok.com/@user/video/7218328781327584518
-Up Favorites,500,https://www.tiktok.com/@user/video/7218328781327584518
-Up Shares,1000,https://www.tiktok.com/@user/video/7218328781327584518
-Up Views,50000,https://www.tiktok.com/@user/video/7208664677738450181
-Up Favorites,5000,https://www.tiktok.com/@user/video/7208664677738450181
-Up Shares,2000,https://www.tiktok.com/@user/video/7208664677738450181
-Up Views,0,https://www.tiktok.com/@user/video/7194941936069922053
+Up Views,10000000,https://www.tiktok.com/@user/video/7218328781327584518
+Up Favorites,500000,https://www.tiktok.com/@user/video/7218328781327584518
+Up Shares,10000000,https://www.tiktok.com/@user/video/7218328781327584518
+Up Views,5000000000,https://www.tiktok.com/@user/video/7208664677738450181
+Up Favorites,500000,https://www.tiktok.com/@user/video/7208664677738450181
+Up Shares,2000000,https://www.tiktok.com/@user/video/7208664677738450181
+Up Views,1000000000,https://www.tiktok.com/@user/video/7194941936069922053
 Up Favorites,15000,https://www.tiktok.com/@user/video/7194941936069922053
 Up Shares,9000,https://www.tiktok.com/@user/video/7194941936069922053
 ```
@@ -485,7 +485,7 @@ Or use the -e or --verbose flags to display more detailed information.
 
 ## Premium (No Limitations)
 
-The **FREE** version limited to **~5000** accumulations (views, likes, shares, etc...).
+The **FREE** version limited to **~5000000** accumulations (views, likes, shares, etc...).
 
 The advantage of acquiring the license is that the bot continues to 
 work indefinitely and accumulates large amounts of views, shares, etc...
